@@ -1,6 +1,5 @@
 My name is Kylian and I am an audio/engine programmer.
 Currently working as a junior game programmer at Stealth.
-I always had a passion for creating awsome projects that help make people life's easier
 
 - 🖥️ Languages:
   - C++
