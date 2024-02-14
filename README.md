@@ -1,5 +1,5 @@
 My name is Kylian and I am an audio/engine programmer.
-Currently working as a junior game programmer at Stealth.
+Currently working as an Associate Programmer at Climax Studios in Portsmouth.
 
 - 🖥️ Languages:
   - C++
