@@ -1,4 +1,4 @@
-My name is Kylian and I am an gameplay/tools programmer.
+My name is Kylian and I am a gameplay/tools programmer.
 
 - 🖥️ Languages:
   - C++
